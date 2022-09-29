@@ -16,12 +16,12 @@ class Movie{
 
 
 let movie1 = new Movie("Casino Royale", "Eon Production", "PG13");
-let movie2 = new Movie("Dead Pool", "Sony Entertainment");
-let movie3 = new Movie("Spider Man", "Marvel Studios", "PG15");
-let movie4 = new Movie("Bullet Train", "Colombia Production");
-let movie5 = new Movie("Last of US", "Warner Bros Production", "PG13");
+// let movie2 = new Movie("Dead Pool", "Sony Entertainment");
+// let movie3 = new Movie("Spider Man", "Marvel Studios", "PG15");
+// let movie4 = new Movie("Bullet Train", "Colombia Production");
+// let movie5 = new Movie("Last of US", "Warner Bros Production", "PG13");
 
 
-let arrOfMovies = [movie1,movie2,movie3,movie4,movie5];
+// let arrOfMovies = [movie1,movie2,movie3,movie4,movie5];
 
-console.log(movie1.getPG(arrOfMovies));
+// console.log(movie1.getPG(arrOfMovies));
